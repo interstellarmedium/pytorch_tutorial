@@ -1,2 +1,3 @@
-# pytorch_tutorial
-some notebooks for the pytorch tutorial if I have time
+notebooks for the Milan workshop pytorch tutorial
+
+the blind leading the blind...
